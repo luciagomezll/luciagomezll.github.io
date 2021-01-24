@@ -9,7 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-You can see my CV {here}[https://drive.google.com/drive/u/0/my-drive]
+You can see my CV [here](https://drive.google.com/drive/u/0/my-drive)
 
 
 
