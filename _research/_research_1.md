@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Peer effects and achievement gaps in the Peruvian education system"
 collection: research
 permalink: /research/_research_1
 ---
