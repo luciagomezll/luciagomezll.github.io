@@ -10,4 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-{% include index.html%}
+{% for post in site.portfolio %}
+  {% include index.html %}
+{% endfor %}
+
+
