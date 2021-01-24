@@ -25,7 +25,7 @@ Manuscript: [learning_gaps.pdf](https://drive.google.com/file/d/1OZlVx7dgbIcWR3_
 
 This study sheds ligth on the heterogeneity of the urban informal self-employment sector in Peru during the 2012-2016 period, for which I use data from the ENAHO and I apply  the methodology of Grimm et al. (2013). The informal self-employment is typically characterised as being heterogeneous and possibly composed of two clearly distinct segments, sometimes called the lower and upper tier. However, the empirical findings suggest that the sector of urban informal self-employment in Peru is very heterogeneous; in addition to the informal self-employees from the "upper stratum" (6%) and informal self-employees from the "surviving lower stratum" (84%), there is a third group of informal self-employees from the "lower stratum" with potential to belong to the "upper stratum" (10%).
 
-## Books chapter
+## Book chapters
 
 **Business inclusion: between economic growth and opportunities for local microenterprises?** (join with Jean P. Benavente for Impacts of tourist activity in Cusco: Application of the satellite account to promote inclusive and competitive tourism, Ed. Jean P. Benavente. UNSAAC university)
 
