@@ -11,6 +11,7 @@ author_profile: true
 
 ### "Explaining the learning gaps between public and private highschools students: Evidence from the PISA test" 
 (join with Johar Cassa)
+
 *Working paper, 2018*
 
 In the last decade, important efforts have been made in Peru to expand access to secondary education; however, quality has not kept pace with this expansion and its heterogeneity has worsened, mainly among private schools. Taking educational performance as an indicator of educational quality, the present study has as its first objective to identify the differences in the educational performance of high school students attending public and private schools, and if these differences persist once the peer effects has been incorporated, for which, an educational production function is estimated. The results show that, the differences initially observed in school performance in favor of private schools decrease drastically and cease to be significant once it is controlled by the socioeconomic composition of the schools.
