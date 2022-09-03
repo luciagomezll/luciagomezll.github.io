@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can download my cv <a href="/images/CV__English_Lucia_Gomez (1).pdf" target="_blank">here</a>
 
-You can dowload my curriculum vitae here
+<object data="/images/CV__English_Lucia_Gomez (1).pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="/images/CV__English_Lucia_Gomez (1).pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/images/CV__English_Lucia_Gomez (1).pdf">Download PDF</a>.</p>
+    </embed>
+</object>
