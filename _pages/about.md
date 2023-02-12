@@ -8,4 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in economics at the University of Bonn (Germany). I have an interest in applied microeconomics.
+Welcome to my homepage!
+
+I am a Master's Student in Economics at the University of Bonn (Germany).
+
+Currently, I am working as a Research Assistant at the Department of Economics of University of Bonn. Here is my <a href="/images/CV.pdf" target="_blank">CV</a>
+
+ My research interests are in Development Economics, Public Economics and Labor Economics. 
+ 
+## Projects
+
+
+
+
