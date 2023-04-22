@@ -16,7 +16,10 @@ I am a Master's Student in Economics at the University of Bonn (Germany). I work
  
 Publications
 ======
-Here is my <a href="/images/machine_learning_minimum_wage_full.html" target="_blank">code in Python</a>.
+
+[Link text]([https://github.com/luciagomezll/luciagomezll.github.io/blob/3772fdbf99de6d6a56d92bb44ac7a73b14a18dc8/images/machine_learning_minimum_wage_full.html])
+
+
 
 
 
