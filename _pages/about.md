@@ -16,9 +16,7 @@ I am a Master's Student in Economics at the University of Bonn (Germany). I work
  
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+Here is my <a href="/images/machine_learning_minimum_wage.md" target="_blank">code in Python</a>.
 
 
 
