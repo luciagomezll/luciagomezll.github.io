@@ -17,7 +17,7 @@ I am a Master's Student in Economics at the University of Bonn (Germany). I work
 Publications
 ======
 
-[Link text]([https://github.com/luciagomezll/luciagomezll.github.io/blob/3772fdbf99de6d6a56d92bb44ac7a73b14a18dc8/images/machine_learning_minimum_wage_full.html])
+[Paper](https://github.com/luciagomezll/luciagomezll.github.io/blob/3772fdbf99de6d6a56d92bb44ac7a73b14a18dc8/images/machine_learning_minimum_wage_full.html)
 
 
 
