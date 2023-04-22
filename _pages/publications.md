@@ -12,5 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include machine_learning_minimum_wage_full.html %}
+  {% include machine_learning_minimum_wage.html %}
 {% endfor %}
