@@ -230,7 +230,7 @@ it: &DEFAULT_IT
   page                       : "Pagina"
   pagination_previous        : "Precedente"
   pagination_next            : "Prossima"
-  breadcrumb_home_label      : "Home"
+  breadcrumb_home_label      : ""
   breadcrumb_separator       : "/"
   toc_label                  : "Indice della pagina"
   ext_link_label             : "Link"
