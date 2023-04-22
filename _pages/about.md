@@ -16,11 +16,5 @@ I am a Master's Student in Economics at the University of Bonn (Germany). I work
  
 Publications
 ======
-
-[Paper](https://github.com/luciagomezll/luciagomezll.github.io/blob/3772fdbf99de6d6a56d92bb44ac7a73b14a18dc8/images/index.html)
-
-
-
-
-
-
+ <a href="/images/index.html" target="_blank">CV</a>.
+ 
