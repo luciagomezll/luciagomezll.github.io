@@ -2,7 +2,7 @@
 title: "Paper Replication in Python"
 excerpt: "This project replicates the first half of the main results from Cengiz, D., Dube, A., Lindner, A., &
 Zentler-Munro, D. (2022)<br/><img src='/images/recall_curve.png'>"
-collection: project
+collection: projects
 ---
 
 This project replicates the first half of the main results from Cengiz, D., Dube, A., Lindner, A., &
