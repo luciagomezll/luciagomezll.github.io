@@ -1,8 +1,8 @@
 ---
 title: "Paper Replication in Python"
-permalink: /projects/
+permalink: /projects/project-python
 excerpt: "This project replicates the first half of the main results from Cengiz, D., Dube, A., Lindner, A., &
-Zentler-Munro, D. (2022)<br/><img src='/images/recall_curve.png'>"
+Zentler-Munro, D. (2022) in Python. <br/><img src='/images/recall_curve.png'>"
 collection: projects
 ---
 
