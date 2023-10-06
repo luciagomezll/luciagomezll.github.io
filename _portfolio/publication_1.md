@@ -7,5 +7,4 @@ code, which was written in Stata and R, I replicated the study in Python, stream
 into a single programming language that is both free and open source. <br/>
 [Download paper here](http://luciagomezll.github.io/files/replication_paper.pdf)
 <br/><img src='/images/recall_curve.png'>"
-collection: portfolio
 ---
