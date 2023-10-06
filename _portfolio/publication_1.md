@@ -2,7 +2,7 @@
 title: "Paper Replication in Python"
 excerpt: "This project replicates the first half of the main results from Cengiz, D., Dube, A., Lindner, A., &
 Zentler-Munro, D. (2022) in Python"
-collection: portafolio
+collection: portfolio
 ---
 
 This project replicates the first half of the main results from Cengiz, D., Dube, A., Lindner, A., &
