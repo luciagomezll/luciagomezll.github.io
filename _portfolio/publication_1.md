@@ -4,7 +4,7 @@ excerpt: "This project replicates the first half of the main results from Cengiz
 Zentler-Munro, D. (2022). Following the authors, I apply machine learning methods to identify the
 potencial workers who are actually affected by the minimum wage policy. In contrast to the original
 code, which was written in Stata and R, I replicated the study in Python, streamlining all the code
-into a single programming language that is both free and open source.
+into a single programming language that is both free and open source. <br/>
 [Download paper here](http://luciagomezll.github.io/files/replication_paper.pdf)
 <br/><img src='/images/recall_curve.png'>"
 collection: portfolio
