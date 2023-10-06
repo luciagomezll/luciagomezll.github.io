@@ -14,7 +14,4 @@ I am a master's student in economics at the University of Bonn (Germany). Additi
 
  My research interests are in Development Economics, Public Economics and Labor Economics. 
  
-Publications
-======
- <a href="/images/index.html" target="_blank">CV</a>.
  
